@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Montserrat:wght@400;700&family=Ubuntu:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Montserrat;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+#container{
+    margin: 15px auto 0px auto;
+    width: 80%;
+    text-align: center;
+    background-color: #F0D5BA;
+    border-radius: 10px;
+    padding: 20px;
+}
+#container2{
+    margin: 15px auto 0px auto;
+    width: 80%;
+    text-align: center;
+    background-color: #8be6cd;
+    border-radius: 10px;
+    padding: 20px;
+}
+.input-div{
+    display: inline-block;
+}
+.inpt{
+    padding: 5px 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+label{
+    font-size: 20px;
+}
+
+p{
+    font-size: 12px;
+}
